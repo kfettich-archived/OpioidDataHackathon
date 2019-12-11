@@ -24,7 +24,9 @@ Add description
 
 ### 3. How many IV drug users are in Philadelphia?
 
-Add description
+### 4. Data exploration
+
+e.g. Can we infer death rate and overdose rate from census data?
 
 ## [Timeline and Workflow](https://codeforphilly.org/events/datahack2020)
 
@@ -48,4 +50,6 @@ The hack is slated to begin on Friday February 7, 2020 with a kickoff event. Par
 
 ## Code of Conduct
 
-Add code of conduct
+- [Code for Philly Code of Conduct](https://codeforphilly.org/pages/code_of_conduct/)
+- [R-Ladies Philly Code of Conduct](https://rladies.org/code-of-conduct/)
+
